@@ -1,0 +1,10 @@
+{
+"title": "Holiday Slideshow",
+"slides": [
+	{"id": 1, "file": "sunset-11"},
+	{"id": 2, "file": "sunset-14"},
+	{"id": 3, "file": "sunset-16"},
+	{"id": 4, "file": "sunset-10"},
+	{"id": 5, "file": "sunset-17"}
+	]
+}
